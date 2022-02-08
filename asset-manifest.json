@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/pethelp/static/css/main.94d9d93e.chunk.css",
-    "main.js": "/pethelp/static/js/main.a0dfd712.chunk.js",
-    "main.js.map": "/pethelp/static/js/main.a0dfd712.chunk.js.map",
+    "main.js": "/pethelp/static/js/main.a7163d54.chunk.js",
+    "main.js.map": "/pethelp/static/js/main.a7163d54.chunk.js.map",
     "runtime-main.js": "/pethelp/static/js/runtime-main.4c4cc75d.js",
     "runtime-main.js.map": "/pethelp/static/js/runtime-main.4c4cc75d.js.map",
     "static/css/2.a2ab3232.chunk.css": "/pethelp/static/css/2.a2ab3232.chunk.css",
-    "static/js/2.fb84e614.chunk.js": "/pethelp/static/js/2.fb84e614.chunk.js",
-    "static/js/2.fb84e614.chunk.js.map": "/pethelp/static/js/2.fb84e614.chunk.js.map",
+    "static/js/2.ab8e0b24.chunk.js": "/pethelp/static/js/2.ab8e0b24.chunk.js",
+    "static/js/2.ab8e0b24.chunk.js.map": "/pethelp/static/js/2.ab8e0b24.chunk.js.map",
     "index.html": "/pethelp/index.html",
     "static/css/2.a2ab3232.chunk.css.map": "/pethelp/static/css/2.a2ab3232.chunk.css.map",
     "static/css/main.94d9d93e.chunk.css.map": "/pethelp/static/css/main.94d9d93e.chunk.css.map",
-    "static/js/2.fb84e614.chunk.js.LICENSE.txt": "/pethelp/static/js/2.fb84e614.chunk.js.LICENSE.txt",
+    "static/js/2.ab8e0b24.chunk.js.LICENSE.txt": "/pethelp/static/js/2.ab8e0b24.chunk.js.LICENSE.txt",
     "static/media/persik.ae9f0072.png": "/pethelp/static/media/persik.ae9f0072.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4c4cc75d.js",
     "static/css/2.a2ab3232.chunk.css",
-    "static/js/2.fb84e614.chunk.js",
+    "static/js/2.ab8e0b24.chunk.js",
     "static/css/main.94d9d93e.chunk.css",
-    "static/js/main.a0dfd712.chunk.js"
+    "static/js/main.a7163d54.chunk.js"
   ]
 }
